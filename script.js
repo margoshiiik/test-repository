@@ -1,5 +1,3 @@
-alert('Git repository: https://github.com/margoshiiik/test-repository')
-
 let apiKey = '364ea10a9dce84c7e6e88f4ed5d11db3';
 
 function findCity(event){
